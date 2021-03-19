@@ -49,9 +49,14 @@ h2 {
   text-align: justify;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-.note{
-  color:red;
-  text-align: left;
+
+.flash {
+  animation-name: flash;
+   animation-duration: 0.2s;
+   animation-timing-function: linear;
+   animation-iteration-count: infinite;
+   animation-direction: alternate;
+   animation-play-state: running;
 }
 
 
