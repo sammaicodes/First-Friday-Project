@@ -15,7 +15,7 @@ body {
 
 .box1{
   width: 200px;
-  height: auto;
+  height: 700px;
   float: left;
   background-color: rgb(60, 231, 44);
   margin: 17px;
@@ -23,4 +23,16 @@ body {
   padding: 17px;
   content: 40px;
   text-align: center;
+}
+
+.listbox{
+  width: 200px;
+  height: 700px;
+  float: right;
+  background-color: rgb(130, 194, 170);
+  margin: 17px;
+  border: 17px;
+  padding: 17px;
+  content: 40px;
+  text-align: justify;
 }
