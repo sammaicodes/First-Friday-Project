@@ -22,7 +22,7 @@ img {
   width: 200px;
   height: 700px;
   float: left;
-  background-color: rgb(60, 231, 44);
+  background-color: rgb(215, 217, 245);
   margin: 17px;
   border: 17px;
   padding: 17px;
@@ -34,12 +34,17 @@ img {
   width: 200px;
   height: 700px;
   float: right;
-  background-color: rgb(130, 194, 170);
+  background-color: rgb(241, 243, 151);
   margin: 17px;
   border: 17px;
   padding: 17px;
   content: 40px;
   text-align: justify;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.note{
+  color:red;
+  text-align: left;
 }
 
 
