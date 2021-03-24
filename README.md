@@ -1,4 +1,4 @@
-# _Programming Journey_
+# Programming Journey
 
 ####  A Project Implementing Basic HTML and CSS
 
@@ -12,10 +12,11 @@
 * _CSS_
 * _GitBash_
 
-
 ## Description
 
 _In brief, this project shows the utilization of basic structure and implementation of HTML and CSS._
+
+_You may access this project at https://sammaicodes.github.io/First-Friday-Project/_
 
 ## Setup/Installation Requirements
 
